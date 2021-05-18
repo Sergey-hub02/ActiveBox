@@ -5,9 +5,6 @@ interface ContainerProps {
 }
 
 
-/**
- * Позволяет разместить элементы UI в пределах сетки
- */
 export const Container: React.FC<ContainerProps> = (props: ContainerProps) => {
   return (
     <div className="Container">

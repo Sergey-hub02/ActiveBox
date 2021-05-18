@@ -1,0 +1,11 @@
+.NavBar__Link {
+  margin-left: 1.2rem;
+
+  font-size: 1.2rem;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.NavBar__Link:first-child {
+  margin-left: 0;
+}

@@ -1,0 +1,12 @@
+.FlexContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.FlexContainer.Wrap {
+  flex-wrap: wrap;
+}
+
+.FlexContainer.AlignCenter {
+  align-items: center;
+}
