@@ -1,0 +1,15 @@
+.Feature {
+  width: 33.33333%;
+  text-align: center;
+
+  margin-top: 2rem;
+  padding: 0 1.2rem;
+}
+
+.Feature__Header {
+  margin-bottom: 1rem;
+}
+
+.Feature__Title {
+  text-transform: uppercase;
+}
