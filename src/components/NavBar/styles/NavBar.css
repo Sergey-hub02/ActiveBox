@@ -6,6 +6,15 @@
   text-transform: uppercase;
 }
 
+.NavBar__Link {
+  opacity: .75;
+  transition: opacity .2s linear;
+}
+
+.NavBar__Link:hover {
+  opacity: 1;
+}
+
 .NavBar__Link:first-child {
   margin-left: 0;
 }

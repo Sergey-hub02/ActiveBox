@@ -12,7 +12,7 @@ export const Header: React.FC<{}> = () => {
       <Container>
         <FlexContainer alignCenter>
           <div className="Header__Logo">
-            <a href="#" className="Logo">
+            <a href="https://google.com" className="Logo">
               <img src={logo} alt="ActiveBox" />
             </a>
           </div>
