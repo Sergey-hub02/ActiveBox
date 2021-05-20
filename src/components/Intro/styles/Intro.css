@@ -1,0 +1,29 @@
+.Intro {
+  text-align: center;
+
+  padding-top: 13rem;
+  padding-bottom: 15rem;
+
+  background-size: cover;
+  background-image: url("../imgs/intro.jpg");
+  background-color: #3a3e64;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  color: #fff;
+}
+
+.Intro__Text {
+  width: 100%;
+  max-width: 97rem;
+  margin: 0 auto 4rem auto;
+}
+
+.Intro__Title {
+  margin-bottom: 3rem;
+  text-transform: uppercase;
+}
+
+.Intro__Description {
+  font-size: 2rem;
+}
